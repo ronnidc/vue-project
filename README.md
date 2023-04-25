@@ -1,5 +1,7 @@
 # vue-project
 
+*Archived April 25. 2023. Starter app. Never used for anything*
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
